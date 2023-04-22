@@ -15,4 +15,4 @@ Java programming language
 Opportunities for collaboration and knowledge sharing
 
 ## ⚡ Fun fact:
-I love to cook and try new recipes, and I'm always looking for new ingredients and flavors to incorporate into my meals.
+I love to cook and try new recipes, always looking for new ingredients and flavors to incorporate into my meals.

@@ -8,9 +8,9 @@
 ### - Data extraction and maturation of sales and inventory data for the client company.
 ### - Data analysis for the client company's sales and inventory data.
 
-### I taken part at Unicamp E-racing, a formula SAE team from Unicamp, on the first autonomous car division in Latin America. There I worked in SLAM (Simoultaneus Localization and Mapping), in which together with other teammates we implemented a location and map creation system based on the FASTSLAM algorithm.
+### I took part at Unicamp E-racing, a formula SAE team from Unicamp, on the first autonomous car division in Latin America. There I worked in SLAM (Simoultaneus Localization and Mapping), in which together with other teammates we implemented a location and map creation system based on the FASTSLAM algorithm.
 
-### Theremore, I was a voluntary teacher at EDUCAVID, a program wich I teach physics for high school students for the college entrance exam.
+### Futhermore, I was a voluntary teacher at EDUCAVID, a program wich I teach physics for high school students for the college entrance exam.
 
 ### Know-how: Excel, Python, SQL, relational database, Azure Databricks, Azure Data Factory, Webhook, API REST, Web scraping, Azure Data Lake, Azure Data Warehouse, PowerBI, Java, ETL, Postman, SAP ECC, SAP S/4HANA, Bayesian filter, Kalman filter, Extended Kalman filter, Particle filter, homogeneous coordinates, FASTSLAM.
 
